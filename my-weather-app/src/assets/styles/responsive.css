@@ -1,0 +1,225 @@
+@media (max-width: 1386px) {
+    .image .image-1,
+    .image .image-2 {
+      width: 50%;
+      opacity: 0.3;
+    }
+    .menu {   
+      position: fixed !important;
+      top: auto;
+      left: 40% !important;
+    }
+    .card-main {
+      gap: 7px;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+    }
+    .li {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+    }
+    .mw-1340-mh-380 {
+      width: 100%;
+      max-width: 1000px;
+      height: auto;
+      padding: 10px;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: space-between;
+      text-align: center;
+      margin: 0 auto;
+    }
+    .sun-position {
+      margin-left: 0 !important;
+    }
+    .card {
+      width: 550px;
+    }
+    .mw-130-mh-145 {
+      height: 115px;
+    }
+  }
+@media (max-width: 1068px) {
+    .image .image-1,
+    .image .image-2 {
+      width: 50%;
+      opacity: 0.3;
+    }
+    .menu {   
+      position: fixed !important;
+      top: auto;
+      left: 38% !important;
+    } 
+    .card-main {
+      gap: 7px;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+    }
+    .li {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+    }
+    .mw-1340-mh-380 {
+      width: 100%;
+      max-width: 800px;
+      height: auto;
+      padding: 10px;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: space-between;
+      text-align: center;
+      margin: 0 auto;
+    }
+    .sun-position {
+      margin-left: 0 !important;
+    }
+    .card {
+      width: 550px;
+    }
+    .mw-130-mh-145 {
+      height: 115px;
+    }
+  }
+@media (max-width: 768px) {
+    .image .image-1,
+    .image .image-2 {
+      width: 50%;
+      opacity: 0.3;
+    }
+    .menu {   
+      position: fixed !important;
+      top: auto;
+      left: 35% !important;
+    }
+    .card-main {
+      gap: 7px;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+    }
+    .li {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+    }
+    .mw-1340-mh-380 {
+      width: 100%;
+      max-width: 700px;
+      height: auto;
+      padding: 10px;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: space-between;
+      text-align: center;
+      margin: 0 auto;
+    }
+    .sun-position {
+      margin-left: 0 !important;
+    }
+    .card {
+      width: 450px;
+    }
+    .mw-130-mh-145 {
+      height: 115px;
+    }
+  }
+@media (max-width: 480px) {
+    .image .image-1,
+    .image .image-2 {
+      width: 50%;
+      opacity: 0.3;
+    }
+    .menu {   
+      position: fixed !important;
+      top: auto;
+      left: 30% !important;
+    }
+    .card-main {
+      gap: 7px;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+    }
+    .li {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+    }
+    .mw-1340-mh-380 {
+      width: 100%;
+      max-width: 600px;
+      height: auto;
+      padding: 10px;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: space-between;
+      text-align: center;
+      margin: 0 auto;
+    }
+    .sun-position {
+      margin-left: 0 !important;
+    }
+    .card {
+      width: 350px;
+    }
+    .mw-130-mh-145 {
+      height: 115px;
+    }
+  }
+  @media (max-width: 395px) {
+    .image .image-1,
+    .image .image-2 {
+      width: 50%;
+      opacity: 0.3;
+    }
+    .menu {   
+      position: fixed !important;
+      top: auto;
+      left: 20% !important;
+    }
+    .card-main {
+      gap: 7px;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+    }
+    .li {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+    }
+    .mw-1340-mh-380 {
+      width: 100%;
+      max-width: 300px;
+      height: auto;
+      padding: 10px;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: space-between;
+      text-align: center;
+      margin: 0 auto;
+    }
+    .sun-position {
+      margin-left: 0 !important;
+    }
+    .card {
+      width: 300px;
+    }
+    .mw-130-mh-145 {
+      height: 115px;
+    }
+  }

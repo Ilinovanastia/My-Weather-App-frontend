@@ -1,0 +1,89 @@
+body {
+    margin: 0;
+    background: linear-gradient(to bottom, #47BFDF,#4A91FF);
+    font-family: 'Overpass', sans-serif;
+    font-weight: 200;
+    font-size: 28px;
+    color: white;
+  }
+h1 {
+    font-weight: 500;
+    font-size: 85px;
+} 
+h2 {
+    font-weight: 500;
+    font-size: 25px;
+}
+h1,h2{
+    margin: 0;
+    padding: 0;
+}
+.main { 
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    min-height: 100vh;
+    width: 100%;
+}
+.image {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    align-items: center;
+    position: absolute;
+    bottom: 0;
+}
+.image-1, .image-2 {
+    width: 450px;
+}
+.number-glow {
+    position: relative; 
+    display: inline-block;
+    text-shadow: 0.005em 0.005em 0 rgba(0, 0, 0, 0.1), 0.2em 0.2em 11px rgba(0, 0, 0, 0.1);
+}
+.card-main {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+}
+.card-wrap {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding: 1rem;
+    padding: 10px;
+}
+.card {
+    border-radius: 15px;
+    padding: 1.4rem;
+    text-shadow: 1.5px 1px 2px rgba(0, 0, 0, 0.15);
+    text-align: center;   
+}
+.blur {
+    background-color: rgba(255, 255, 255, 0.196);
+    border: 2px solid rgba(255, 255, 255, 0.395);
+    backdrop-filter: blur(10px);
+}
+.center {
+    display: flex;
+    justify-content: center;
+}
+.mw-270 {
+    width: 270px;
+}
+.mw-130-mh-145 {
+    width: 130px;
+    height: 145px;
+}
+.mw-130-mh-145 p {
+    font-size: 19px;
+    margin: 6px;
+}
+.mw-1340-mh-380 {
+    display: flex;
+    width: 1340px;
+    height: 380px;
+    align-items: center;
+    justify-content: start;
+    padding-left: 15%;
+}
